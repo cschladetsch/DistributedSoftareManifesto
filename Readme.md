@@ -2,6 +2,8 @@
 ## A Relativistic Treatise on Information Physics and Autopoietic Systems
 **By Christian Schladetsch**
 
+![Organic Continuum diagram](diagram.png)
+
 ---
 
 ### I. THE CRISIS OF THE MECHANISTIC WORLDVIEW
