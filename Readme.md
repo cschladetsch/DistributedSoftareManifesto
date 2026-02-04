@@ -1,12 +1,12 @@
-# THE ORGANIC CONTINUUM
-## A Relativistic Treatise on Information Physics and Autopoietic Systems
+# The Organic Continuum
+## A Relativistic Treatise On Information Physics And Autopoietic Systems
 **By Christian Schladetsch**
 
 ![Organic Continuum diagram](diagram.png)
 
 ---
 
-### I. THE CRISIS OF THE MECHANISTIC WORLDVIEW
+### I. The Crisis Of The Mechanistic Worldview
 
 For fifty years, distributed computing has been built upon a lie. That lie is the "Global State"—the belief that a network of machines can, or should, share a singular, synchronized reality. This is the Mechanistic Worldview. It views the computer as a clockwork engine where every gear must mesh perfectly with its neighbor. If one gear slips (latency) or breaks (packet loss), the entire engine grinds to a halt or, worse, enters a state of "desynchronization."
 
@@ -16,7 +16,7 @@ The universe does not have a global clock. As Einstein demonstrated, simultaneit
 
 ---
 
-### II. SUB-SONIC PHYSICS: THE DENSITY OF TRUTH
+### II. Sub-Sonic Physics: The Density Of Truth
 
 In a standard network, we attempt to move data at the speed of light. To the software, this creates a "Step Function"—an object is at Position A, and then it is instantly at Position B. This instantaneous jump is the source of all jitter. It is a "sonic boom" in the data-space that creates ripples of instability.
 
@@ -26,7 +26,7 @@ When an event occurs at Node A, it does not "update" Node B. Instead, it generat
 
 ---
 
-### III. THE INSECT LAYER: THE QUANTIZATION OF REALITY
+### III. The Insect Layer: The Quantization Of Reality
 
 If Sub-Sonic Physics provides the space, the "Insects" provide the time. The Insects are autonomous, ubiquitous sampling agents that reside in every coordinate of the continuum. They are the "white blood cells" of the architecture.
 
@@ -38,7 +38,7 @@ Furthermore, the rate at which an insect blinks is governed by **Saliency**. If 
 
 ---
 
-### IV. THE MATHEMATICS OF INFLUENCE AND THE FLOCKING MODEL
+### IV. The Mathematics Of Influence And The Flocking Model
 
 In the absence of a central server (the "Dictator"), how is order maintained? We look to nature. Birds do not vote on which way to fly; they follow a **Flocking Model**. In the Organic Continuum, consensus is replaced by the **Summation of Influence**.
 
@@ -51,7 +51,7 @@ Where $W_{source}$ is the historical reputation of the sender, $dist$ is the sub
 
 ---
 
-### V. DISTRIBUTED CONTINUATIONS: THE MIGRATION OF SOULS
+### V. Distributed Continuations: The Migration Of Souls
 
 The ultimate test of the Organic Continuum is the movement of a "Live" execution—a Continuation—from one machine to another without stopping the world.
 
@@ -61,7 +61,7 @@ By the time the Continuation arrives at its destination, the "neighbors" of that
 
 ---
 
-### VI. THE TRI-COLOR ECOSYSTEM: ENERGETIC RECLAMATION
+### VI. The Tri-Color Ecosystem: Energetic Reclamation
 
 Garbage collection in the Continuum is not a "cleanup process." It is an **Emergent Grazing Behavior**. Using a distributed Tri-Color marking system, we treat memory like an ecosystem.
 
@@ -73,7 +73,7 @@ Because the Garbage Collector travels at the same 200m/s speed as the data, the 
 
 ---
 
-### VII. CONCLUSION: THE ZEN OF THE INSECT
+### VII. Conclusion: The Zen Of The Insect
 
 The Organic Continuum is more than an architecture; it is a way of being for the machine. It is a recognition that the only way to build systems of infinite scale and zero perceived latency is to stop trying to control the world and start trying to **simulate its soul**.
 
