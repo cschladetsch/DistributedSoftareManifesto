@@ -8,7 +8,7 @@
 
 ### I. The Crisis Of The Mechanistic Worldview
 
-For fifty years, distributed computing has been built upon a lie. That lie is the "Global State"—the belief that a network of machines can, or should, share a singular, synchronized reality. This is the Mechanistic Worldview. It views the computer as a clockwork engine where every gear must mesh perfectly with its neighbor. If one gear slips (latency) or breaks (packet loss), the entire engine grinds to a halt or, worse, enters a state of "desynchronization."
+For fifty years, distributed computing has been built upon a lie. That lie is the "Global State": the belief that a network of machines can, or should, share a singular, synchronized reality. This is the Mechanistic Worldview. It views the computer as a clockwork engine where every gear must mesh perfectly with its neighbor. If one gear slips (latency) or breaks (packet loss), the entire engine grinds to a halt or, worse, enters a state of "desynchronization."
 
 To combat this, we have layered complexity upon complexity. We invented Paxos and Raft to force consensus. We invented NTP to chase the ghost of a universal "Now." We invented distributed locks to freeze the universe so we could safely measure it. These are not solutions; they are survival mechanisms for a flawed philosophy. They fight the fundamental physics of our universe: Relativity.
 
